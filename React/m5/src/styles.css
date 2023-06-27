@@ -1,0 +1,21 @@
+.table-container {
+    background-color:#6c666674;
+    border: 8px solid orange;
+    width: 96%;
+    overflow-x: auto; 
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    border-bottom: 1px solid white;
+    color: white;
+    font-size: 14px;
+    text-align: left;
+  }
+  
+  

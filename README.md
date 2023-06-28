@@ -165,5 +165,4 @@ of the web application.
 - [Jupyter Notebook](https://jupyter.org/), [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/index.html): 
 `Jupyter Notebook` and `Anaconda` python environment were used to develop the code for ML.
 
-## Screenshots of the Web Application
 

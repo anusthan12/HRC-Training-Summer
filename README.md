@@ -1,12 +1,12 @@
 [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](LICENSE)
-[![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/nooobcoder/HighRadiusTraining)
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/nooobcoder/HighRadiusTraining/releases)
-[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://github.com/nooobcoder/HighRadiusTraining/commit)
+[![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/anusthan12/HRC-Training-Summer)
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/anusthan12/HRC-Training-Summer/releases)
+[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://github.com/anusthan12/HRC-Training-Summer/commit)
 ---
 ### What we learned:
 ---
-###Machine Learning :
+### Machine Learning :
 It seems like you have performed a comprehensive set of tasks in your machine learning project. Here's a breakdown of the steps you mentioned:
 
 1. Importing Big Data: You started by importing a large dataset into your machine learning project. Importing data is the first step in any data analysis or modeling task.

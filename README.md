@@ -1,7 +1,7 @@
 [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](LICENSE)
 ---
-### What we learned:
+### Learn :
 ---
 ### Machine Learning :
 It seems like you have performed a comprehensive set of tasks in your machine learning project. Here's a breakdown of the steps you mentioned:

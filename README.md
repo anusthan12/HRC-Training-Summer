@@ -1,6 +1,6 @@
-# HRC Summer Internship — HighRadius Corporation
+# HRC Summer Internship — HRC
 
-A full-stack **B2B Invoice Management Web Application** built during an internship at **HighRadius Corporation**, featuring a receivables dashboard, ML-powered payment prediction, and real-time invoice operations.
+A full-stack **B2B Invoice Management Web Application** built during an internship at **HRC**, featuring a receivables dashboard, ML-powered payment prediction, and real-time invoice operations.
 
 [![Python](https://img.shields.io/badge/Python-3.x-1f425f?style=flat-square&logo=python&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-18-20232a?style=flat-square&logo=react&logoColor=61DAFB)](#)
